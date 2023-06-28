@@ -23,4 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 #keys
-.dynamoDbUser_accessKeys.numbers
+dynamoDbUser_accessKeys.numbers
